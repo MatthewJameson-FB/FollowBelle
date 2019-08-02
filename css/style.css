@@ -6,7 +6,9 @@
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-}#bg-img1 {
+}
+
+#about {
     background-image: url('https://i.imgur.com/o0UPpbt.jpg') !important;
     height: 700px;
     width: 100%;
